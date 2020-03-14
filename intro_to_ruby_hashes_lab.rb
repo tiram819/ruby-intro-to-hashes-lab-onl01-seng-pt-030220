@@ -8,10 +8,8 @@ name = "Dwane The Rock Johnson"
 end
 
 def monopoly
-	monopoly = {
-	  
-	  :railroads =>
-	}
+	monopoly = {}
+	  monopoly = {:railroads => {}}
 
 end
 
